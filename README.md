@@ -1,1 +1,1 @@
-# Algoritmos_Dissertacao
+# Scripts da Dissertação (CupCarbon)
